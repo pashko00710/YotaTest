@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">YotaTest</string>    <string name="url">Введите свой URL</string>    <string name="new_url">Перейти</string>    <string name="clean_url">Очистить</string></resources>
